@@ -1,2 +1,2 @@
 puts "This line added by project RLGGHC"
-puts "This line added by ashbb (Satoshi Asakawa)"
+puts "Added this line by Edgar De Jesus Polanco Gonzalez"
